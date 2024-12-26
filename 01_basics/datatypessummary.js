@@ -33,3 +33,13 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+let myYTname="AYUSHDOTCOMM"
+
+let anothername= myYTname
+anothername="Ayushcode"
+
+console.log(anothername)
+console.log(myYTname)
