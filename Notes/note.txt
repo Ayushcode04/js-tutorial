@@ -1,0 +1,13 @@
+*JS Execution COntext*
+
+    [code]=> Global EC
+                ^this
+
+    ->Gec
+    ->fn EC
+    ->Eval EC
+
+    [code] ->memoory creation Phase
+           ->Execution phase
+
+           
