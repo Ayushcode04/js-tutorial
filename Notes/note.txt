@@ -17,3 +17,20 @@ false,0,-0,BigInt 0n ,"" ,null, unidefined,NaN
 //truthy value
 "0","false"," ",[],{},function(){}
  
+
+Javascript 
+        synchronous 
+        single threaded             (Default)
+ 
+Execution 
+    execute one line of code at a time
+    console log1
+    log 2
+    call stack      memory Heap
+
+
+Blocking Code  vs  Non Blocking
+block flow of      doesnt block
+ program 
+
+Read file sync     Read file async
